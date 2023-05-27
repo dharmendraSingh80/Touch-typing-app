@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Touch-typing-app/static/css/main.e89903ac.css",
+    "main.js": "/Touch-typing-app/static/js/main.04b31356.js",
+    "index.html": "/Touch-typing-app/index.html",
+    "main.e89903ac.css.map": "/Touch-typing-app/static/css/main.e89903ac.css.map",
+    "main.04b31356.js.map": "/Touch-typing-app/static/js/main.04b31356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89903ac.css",
+    "static/js/main.04b31356.js"
+  ]
+}
