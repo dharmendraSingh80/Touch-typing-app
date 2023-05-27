@@ -2,6 +2,9 @@
 
 This is a web-based touch typing application built with ReactJS. It helps users practice touch typing by providing a typing box and measuring their typing speed and accuracy.
 
+## Deployed Link
+https://dharmendrasingh80.github.io/Touch-typing-app/
+
 ## Features
 
 - Typing box to input keys
